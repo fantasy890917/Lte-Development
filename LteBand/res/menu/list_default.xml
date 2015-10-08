@@ -1,0 +1,18 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android" >
+
+    <item
+        android:id="@+id/btn_start_service"
+        android:title="@string/start_service"/>
+    <item
+        android:id="@+id/btn_stop_service"
+        android:title="@string/stop_service"/>
+    
+    <item
+        android:id="@+id/settings"
+        android:title="@string/settings_title"/>
+    
+    <item
+        android:id="@+id/about"
+        android:title="@string/about_title"/>
+
+</menu>

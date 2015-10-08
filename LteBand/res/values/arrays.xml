@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<string-array name="band_mode_lte_fdd">
+        <item>Band 1</item>
+        <item>Band 2</item>
+        <item>Band 3</item>
+        <item>Band 4</item>
+        <item>Band 5</item>
+        <item>Band 6</item>
+        <item>Band 7</item>
+        <item>Band 8</item>
+        <item>Band 9</item>
+        <item>Band 10</item>
+        <item>Band 11</item>
+        <item>Band 12</item>
+        <item>Band 13</item>
+        <item>Band 14</item>
+        <item>Band 15</item>
+        <item>Band 16</item>
+        <item>Band 17</item>
+        <item>Band 18</item>
+        <item>Band 19</item>
+        <item>Band 20</item>
+        <item>Band 21</item>
+        <item>Band 22</item>
+        <item>Band 23</item>
+        <item>Band 24</item>
+        <item>Band 25</item>
+        <item>Band 26</item>
+        <item>Band 27</item>
+        <item>Band 28</item>
+        <item>Band 29</item>
+        <item>Band 30</item>
+        <item>Band 31</item>
+        <item>Band 32</item>
+    </string-array>
+    <string-array name="band_mode_lte_tdd">
+        <item>Band 33</item>
+        <item>Band 34</item>
+        <item>Band 35</item>
+        <item>Band 36</item>
+        <item>Band 37</item>
+        <item>Band 38</item>
+        <item>Band 39</item>
+        <item>Band 40</item>
+        <item>Band 41</item>
+        <item>Band 42</item>
+        <item>Band 43</item>
+        <item>Band 44</item>
+    </string-array>
+</resources>
